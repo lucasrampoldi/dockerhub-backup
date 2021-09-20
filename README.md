@@ -1,5 +1,7 @@
 This program retrieves image tags for a repository, downloads image, compresses and uploads to S3.
 
+For example, you want to migrate your current repository to another repository and you don't want to lost the images.
+
 #### COMPILE
 $go build main.go
 
